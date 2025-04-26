@@ -1,12 +1,12 @@
 // firebase-config.js
 const firebaseConfig = {
-  apiKey: "AIzaSyB4sYnng9AIxnYnrha7mo7IK7QhxG-wA4E",
-  authDomain: "encuesta-prueba-74ef5.firebaseapp.com",
-  projectId: "encuesta-prueba-74ef5",
-  storageBucket: "encuesta-prueba-74ef5.firebasestorage.app",
-  messagingSenderId: "950618110640",
-  appId: "1:950618110640:web:460f9127e1f4a94f0d5975",
-  measurementId: "G-7VVYNE4V3S"
+  apiKey: "AIzaSyAxudvGpv_imSXryCYxV1O8z9UWmBMBrCE",
+  authDomain: "encuestashanty-ea42f.firebaseapp.com",
+  projectId: "encuestashanty-ea42f",
+  storageBucket: "encuestashanty-ea42f.firebasestorage.app",
+  messagingSenderId: "43878288067",
+  appId: "1:43878288067:web:6bd22f057ec4fa71ae3076",
+  measurementId: "G-75Z9FF9PSN"
 };
 // Inicializa Firebase
 if (!firebase.apps.length) {
